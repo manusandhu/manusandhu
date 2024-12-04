@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manpreet Singh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/@manusandhu63601" target="blank"><img src="https://img.shields.io/twitter/follow/@manusandhu63601?logo=twitter&style=for-the-badge" alt="@manusandhu63601" /></a> </p>
+
 
 - 🔭 I’m currently working on **Car Service website**
 
